@@ -108,7 +108,3 @@ go test -v -timeout 30m
 - ✅ Secrets management integration
 - ✅ Compliance scanning (Checkov, Tfsec)
 
-## License
-
-MIT License
-
